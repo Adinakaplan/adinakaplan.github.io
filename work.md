@@ -24,6 +24,6 @@ Data Science Student at Bellevue University.Seeking to apply technical expertise
 * **Visualization:** PowerBI, Matplotlib, Seaborn
 
 ### Contact
-* **Email:** Adina.kaplan613 at gmail.com
+* **Email:** Adina.kaplan613 [at] gmail.com
 * **LinkedIn:** 
 * **GitHub:** 
