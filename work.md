@@ -6,10 +6,6 @@
 
 ### Work & Experience
 
-* **Marketing Attribution & Budget Analysis**
-  Developed a model to evaluate the impact of seasonal marketing expenditures. Focused on identifying high-ROI channels to optimize a $300,000 budget allocation.
-  *Technologies: Python, Predictive Modeling, Matplotlib.*
-
 * **Predictive Vehicle Pricing Model**
   Utilized historical sales data to build a regression model that predicts vehicle market value. This project involved extensive data cleaning and feature engineering to improve accuracy.
   *Technologies: Python, SQL, Scikit-learn.*
@@ -19,7 +15,7 @@
   *Technologies: Random Forest Classification, Pandas, Data Visualization.*
 
 ### Current Role & Objective
-Data Science Student at Bellevue University. Seeking to leverage predictive analytics and data management skills in remote or healthcare-adjacent consulting roles.
+Data Science Student at Bellevue University.Seeking to apply technical expertise in data analysis, predictive modeling, and strategic problem-solving to drive data-informed decision-making.
 
 ### Technical Skills
 * **Programming & Databases:** Python (Pandas, NumPy), SQL
@@ -28,6 +24,6 @@ Data Science Student at Bellevue University. Seeking to leverage predictive anal
 * **Visualization:** PowerBI, Matplotlib, Seaborn
 
 ### Contact
-* **Email:** [Your Email Here]
-* **LinkedIn:** [Your LinkedIn Link Here]
-* **GitHub:** [Your GitHub Link Here]
+* **Email:** Adina.kaplan613 at gmail.com
+* **LinkedIn:** 
+* **GitHub:** 
