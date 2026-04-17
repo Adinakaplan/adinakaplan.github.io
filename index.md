@@ -7,4 +7,4 @@
 ### Welcome
 Welcome to my professional portfolio. This site features my resume, contact information, and data science projects.
 
-[View My Resume](INSERT_LINK_TO_YOUR_RESUME_HERE)
+[View My Resume](Adina_Kaplan_Data_Science_Resume_3_2026)
