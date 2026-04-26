@@ -1,3 +1,7 @@
+---
+layout: default
+theme: jekyll-theme-cayman
+---
 # ADINA KAPLAN | PROFESSIONAL PORTFOLIO
 
 ## [Home](index.md) | [Work & Contact](work.md)
