@@ -6,12 +6,12 @@ This project developed a data-driven framework to shift intersection management 
 ---
 
 ## My Role: Machine Learning Architect & Stakeholder Liaison
-In this collaborative project, I was responsible for the end-to-end **Predictive Modeling** and **Spatial Analysis** pipeline. My role included:
-* **Strategic Data Engineering:** Collaborating heavily on the data-cleaning strategy to ensure specific features were engineered to support high-precision modeling.
-* **Technical Implementation:** Building the Random Forest architecture and spatial join logic.
-* **Communication:** Authoring the technical white paper to translate complex model outputs into actionable insights for non-technical stakeholders.
+In this collaborative project, I was responsible for the **Predictive Modeling** and **Strategic Analysis** phase. My role focused on transforming processed data into actionable business intelligence:
 
----
+* **Model Architecture:** Designed and implemented a Random Forest Classifier to identify non-linear risk patterns across NYC infrastructure.
+* **Metric Optimization:** Strategically tuned the model to prioritize **Recall (97%)**, ensuring the framework minimized "False Negatives" in public safety assessments.
+* **Feature Strategy:** Collaborated with the data engineering lead to ensure spatial features and crash histories were structured to maximize model predictive power.
+* **Stakeholder Communication:** Authored the technical proposal to translate complex model outputs and performance metrics into a clear strategy for non-technical decision-makers.
 
 ## Technical Methodology
 
