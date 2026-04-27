@@ -16,6 +16,7 @@ Detail-oriented and analytical Data Science student at Bellevue University (GPA 
 ---
 
 ### **Technical Projects**
+![Confusion Matrix](confusion_matrix_NYC_Traffic.png)
 
 ### **[NYC Intersection Safety & Risk Modeling](project1)**
 **Technical Stack:** *Python, Random Forest, Geospatial Analysis (EPSG:2263)*
