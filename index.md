@@ -1,11 +1,15 @@
 ---
 layout: default
 theme: jekyll-theme-cayman
-title: ADINA KAPLAN | DATA SCIENCE
-description: Portfolio & Technical Projects
 ---
 
+<div id="main-content"></div>
+
+# ADINA KAPLAN | DATA SCIENCE
+
 ## [Home](index.md) | [Work & Contact](work.md)
+
+---
 
 ### **Professional Summary**
 Detail-oriented and analytical Data Science student at Bellevue University (GPA 4.0). I have hands-on experience in data analysis, visualization, predictive modeling, and statistical methods. I take a structured, logical approach to problem-solving and am proficient in transforming complex datasets into actionable insights using Python, SQL, and Power BI.
@@ -23,11 +27,11 @@ Detail-oriented and analytical Data Science student at Bellevue University (GPA 
 
 ### **Key Technical Projects**
 
-**[NYC Motor Vehicle Collision Analysis](project1.md)**
+#### **[NYC Motor Vehicle Collision Analysis](project1.md)**
 Conducted a large-scale analysis of 1.8M records. I identified critical gaps in geographic data tracking, uncovering a correlation between poorly tracked areas and intersections requiring city infrastructure improvements—suggesting that areas with less oversight may coincide with higher maintenance needs.
 
-**[Predictive Modeling & ML Pipelines](project2.md)**
+#### **[Predictive Modeling & ML Pipelines](project2.md)**
 Developed end-to-end machine learning pipelines including preprocessing, feature engineering, and hyperparameter tuning. Optimized models using ROC/AUC and confusion matrices to drive predictive accuracy and business decision-making.
 
-**[Database Design & SQL Analysis](project3.md)**
+#### **[Database Design & SQL Analysis](project3.md)**
 Designed relational databases and created ERDs for customer, supplier, bid, and student datasets. Developed complex SQL queries to retrieve, filter, and aggregate data for comprehensive reporting.
