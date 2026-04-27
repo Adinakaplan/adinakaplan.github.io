@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 ## Data Science Portfolio
 ### **Data Scientist / Analyst | GPA 4.0**
 [**Resume**](resume.pdf) | [**LinkedIn**](https://www.linkedin.com/in/adina-kaplan/) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
