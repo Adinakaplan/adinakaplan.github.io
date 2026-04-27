@@ -1,41 +1,28 @@
 # ADINA KAPLAN
-### **Data Scientist/Analyst | GPA 4.0**
+### **Data Scientist / Analyst | GPA 4.0**
 [**Download Resume (PDF)**](Adina_Kaplan_Data_Science_Resume_3_2026.pdf) | [**LinkedIn**](https://www.linkedin.com/in/adinakaplan) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
 
 ---
 
 ### **Professional Summary**
-Detail-oriented Data Science student at Bellevue University with a consistent 4.0 GPA. I specialize in transforming complex, real-world data into actionable business intelligence. My approach combines rigorous statistical methods with advanced programming to solve high-impact challenges in urban safety, predictive analytics, and relational database architecture.
+Detail-oriented and analytical Data Science student at Bellevue University (GPA 4.0). I have hands-on experience in data analysis, visualization, predictive modeling, and statistical methods. I take a structured, logical approach to problem-solving and am proficient in transforming complex datasets into actionable insights using Python, SQL, and Power BI.
 
 ---
 
-### **Technical Expertise**
-
-| Category | Tools & Skills |
-| :--- | :--- |
-| **Programming** | Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, T-SQL) |
-| **Analysis** | Exploratory Data Analysis (EDA), Statistical Modeling, Hypothesis Testing |
-| **Visualization** | Power BI, Tableau, Matplotlib, Seaborn, Excel |
-| **Machine Learning** | Regression, Classification, XGBoost, Random Forest, Feature Engineering |
+### **Technical Skills**
+* **Languages & Tools:** Python (Pandas, NumPy, scikit-learn), SQL, Excel, Jupyter, Tableau, Power BI.
+* **Analysis & Modeling:** Data cleaning & EDA, statistics, hypothesis testing, regression/classification, model evaluation.
+* **Databases & Text:** Relational design (ERDs), SQL queries (joins/aggregations), text cleaning, frequency analysis.
 
 ---
 
-### **Featured Technical Projects**
+### **Key Technical Projects**
 
-#### 🔹 **NYC Motor Vehicle Collision Analysis**
-*Large-scale analysis of 1.8M municipal records to identify infrastructure risks.*
-* **The Insight:** Discovered that geographic areas with the highest injury rates often suffered from poor data tracking, suggesting that municipal oversight directly correlates with infrastructure safety.
-* **Tech Stack:** Python, Geospatial Mapping, Data Wrangling.
-* [**View Project Documentation**](project1.md)
+#### **[NYC Motor Vehicle Collision Analysis](project1.md)**
+Conducted a large-scale analysis of 1.8M records. I identified critical gaps in geographic data tracking, uncovering a correlation between poorly tracked areas and intersections requiring improvements—suggesting that areas with less oversight may coincide with higher maintenance needs.
 
-#### 🔹 **Predictive Machine Learning Pipelines**
-*End-to-end forecasting and model optimization for business decision-making.*
-* **The Result:** Engineered a pipeline that optimized model recall and AUC-ROC scores through rigorous hyperparameter tuning and custom feature scaling.
-* **Tech Stack:** Scikit-Learn, Python, Predictive Modeling.
-* [**View Project Documentation**](project2.md)
+#### **[Predictive Modeling & ML Pipelines](project2.md)**
+Developed end-to-end machine learning pipelines including preprocessing, feature engineering, and hyperparameter tuning. Optimized models using ROC/AUC and confusion matrices to drive predictive accuracy and business decision-making.
 
-#### 🔹 **Relational Database Design & Architecture**
-*Structuring multi-source data for efficient retrieval and business reporting.*
-* **The Achievement:** Designed complex Entity-Relationship Diagrams (ERDs) and authored advanced SQL queries to aggregate and summarize high-volume supplier and sales data.
-* **Tech Stack:** SQL, ERD Design, Database Normalization.
-* [**View Project Documentation**](project3.md)
+#### **[Database Design & SQL Analysis](project3.md)**
+Designed relational databases and created ERDs for customer, supplier, bid, and student datasets. Developed complex SQL queries to retrieve, filter, and aggregate data for comprehensive reporting.
