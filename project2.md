@@ -16,9 +16,9 @@ In the telecommunications industry, the cost of acquiring a new customer signifi
 
 ## Key Results & Findings
 * **Model Performance:** Achieved a **0.6336 F1-Score** for the churn class and an **AUC-ROC of 0.8442**, significantly improving the ability to distinguish between "leavers" and "stayers" compared to baseline models.
-* **Strategic Accuracy:** By prioritizing Recall through threshold tuning, the model is designed to minimize "False Negatives"—the most expensive error in churn management.
+* **Strategic Accuracy:** By prioritizing Recall through threshold tuning, the model is designed to minimize "False Negatives" which is the most expensive error in churn management.
 * **Predictive Capability:** The pipeline is architected to output a prioritized risk list, identifying customers with a churn probability of up to **97%** for targeted intervention.
-* **Final Analysis:** [Documentation Finalization in Progress] — Detailed correlation between specific service bundles and churn behavior is currently being synthesized for the final report.
+* **Final Analysis:** [Documentation Finalization in Progress] - Detailed correlation between specific service bundles and churn behavior is currently being synthesized for the final report.
 
 ## Project Artifacts
 * **[Data Cleaning & Engineering Pipeline](Telco_Customer_Churn_Cleaned.ipynb):** Comprehensive notebook focused on data integrity, feature engineering, and preprocessing.
