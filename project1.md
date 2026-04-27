@@ -36,7 +36,7 @@ In public safety, the cost of a "False Negative" (missing a high-risk site) is s
 ## Technical Performance
 Below is the Confusion Matrix demonstrating the model’s success in capturing high-risk categories through optimized recall.
 
-![Confusion Matrix](image_03ba11.png)
+![Confusion Matrix](confusion_matrix_NYC_Traffic.png)
 
 ---
 
