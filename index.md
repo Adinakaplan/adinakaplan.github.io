@@ -1,36 +1,46 @@
+---
+layout: default
+title: Adina Kaplan | Data Science Portfolio
+---
+
 # ADINA KAPLAN
-### Data Science Specialist | GPA 4.0
-
-[View My Resume](Adina_Kaplan_Data_Science_Resume_3_2026.pdf) | [LinkedIn](https://www.linkedin.com/in/adinakaplan)
-
----
-
-#### **Professional Summary**
-[cite_start]Detail-oriented and analytical Data Science student at Bellevue University[cite: 73]. [cite_start]I specialize in transforming complex datasets into actionable insights using a structured, logical approach to problem-solving. [cite_start]Proficient in Python, SQL, and Power BI with a focus on predictive modeling and statistical analysis[cite: 74, 83].
+### **Data Science Specialist | GPA 4.0**
+[Resume](Adina_Kaplan_Data_Science_Resume_3_2026.pdf) • [LinkedIn](https://www.linkedin.com/in/adinakaplan) • [Email](mailto:adina.kaplan613@gmail.com)
 
 ---
 
-#### **Technical Expertise**
-* [cite_start]**Languages & Tools:** Python (Pandas, NumPy, scikit-learn), SQL, Power BI, Tableau, Excel[cite: 83].
-* [cite_start]**Data Analysis:** Exploratory Data Analysis (EDA), Data Wrangling, Statistical Testing[cite: 84, 87].
-* [cite_start]**Modeling:** Regression, Classification, and Machine Learning Pipelines (XGBoost, Random Forest)[cite: 84, 89].
-* [cite_start]**Databases:** Relational Database Design, ERDs, and Advanced SQL Querying[cite: 85, 91].
+> **Professional Summary**
+> Detail-oriented Data Science student at Bellevue University with a 4.0 GPA. I specialize in transforming complex datasets into actionable insights through a structured, logical approach to problem-solving. Proficient in Python, SQL, and Power BI with a focus on predictive modeling and relational database design.
 
 ---
 
-#### **Featured Technical Projects**
+### **Technical Expertise**
 
-**[NYC Motor Vehicle Collision Analysis](project1.md)**
-* Analyzed 1.8M records to identify critical gaps in municipal geographic tracking.
-* Discovered correlations between poorly tracked zones and high-risk intersections requiring infrastructure improvements.
-* *Tools: Python, Geospatial Mapping, Data Wrangling.*
+| **Category** | **Skills & Tools** |
+| :--- | :--- |
+| **Languages** | Python (Pandas, NumPy, scikit-learn), SQL |
+| **Visualizations** | Power BI, Tableau, Matplotlib, Seaborn |
+| **Modeling** | Regression, Classification, XGBoost, Random Forest |
+| **Databases** | Relational Design (ERD), Advanced Querying |
 
-**[Predictive Machine Learning Pipelines](project2.md)**
-* [cite_start]Developed end-to-end ML pipelines including feature engineering and hyperparameter tuning[cite: 89].
-* [cite_start]Optimized models using ROC/AUC metrics to improve predictive accuracy for business decision-making[cite: 89].
-* *Tools: Scikit-Learn, Python.*
+---
 
-**[Relational Database Design & SQL Architecture](project3.md)**
-* [cite_start]Designed comprehensive relational architectures (ERDs) for customer and supplier datasets[cite: 91].
-* [cite_start]Authored complex SQL queries to aggregate and summarize high-volume data for business reporting[cite: 91].
-* *Tools: SQL, ERD Design.*
+### **Technical Projects**
+
+#### 🔹 **NYC Motor Vehicle Collision Analysis**
+*Large-scale analysis of 1.8M municipal records identifying infrastructure risks.*
+* **The Insight:** Discovered that intersections with the highest injury rates often had the poorest data tracking, suggesting a correlation between municipal oversight and infrastructure safety.
+* **Technical Highlights:** Data cleaning in Python, Geospatial Mapping.
+* **[Read Full Project Report](project1.md)**
+
+#### 🔹 **Predictive Machine Learning Pipelines**
+*End-to-end forecasting and model optimization for business decision-making.*
+* **The Result:** Optimized predictive accuracy using ROC/AUC metrics; developed a custom feature engineering process to handle high-cardinality categorical data.
+* **Technical Highlights:** Scikit-Learn, Hyperparameter Tuning.
+* **[Read Full Project Report](project2.md)**
+
+#### 🔹 **Database Architecture & SQL Design**
+*Relational design for high-volume data management and reporting.*
+* **The Achievement:** Designed ERDs and built relational structures for supplier and sales data; wrote complex joins and aggregations for reporting.
+* **Technical Highlights:** SQL, ERD Creation.
+* **[Read Full Project Report](project3.md)**
