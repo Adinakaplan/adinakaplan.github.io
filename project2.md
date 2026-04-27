@@ -1,3 +1,7 @@
+[**← Back to Home**](https://adinakaplan.github.io/) | [**LinkedIn Profile**](https://www.linkedin.com/in/adina-kaplan/) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
+
+---
+
 # predictive Customer Churn Analysis
 
 ## Project Overview
