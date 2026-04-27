@@ -26,6 +26,6 @@ In the telecommunications industry, the cost of acquiring a new customer signifi
 
 ## Project Artifacts
 * **[Data Cleaning & Engineering Pipeline](Telco_Customer_Churn_Cleaned.html):** Comprehensive notebook focused on data integrity, feature engineering, and preprocessing.
-* **[Predictive Model & Evaluation](customer_churn_model.ipynb):** XGBoost and Random Forest implementation including hyperparameter tuning and threshold optimization.
+* **[Predictive Model & Evaluation](customer_churn_model.html):** XGBoost and Random Forest implementation including hyperparameter tuning and threshold optimization.
 * **[Strategic Project Paper](customer_churn_paper_1.pdf):** Formal documentation of the research methodology and industry domain analysis.
 * **Core Technical Stack:** Python (Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn).
