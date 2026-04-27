@@ -4,15 +4,16 @@
 This project identifies high-value customer segments at risk of attrition using predictive modeling. By analyzing historical behavior, we developed a framework to calculate churn probability and recommend targeted retention strategies.
 
 ## Technical Methodology
-* **Models:** Developed and compared **XGBoost** and **Random Forest** architectures to identify robust predictive patterns.
-* **Optimization:** Applied **Threshold Optimization** to balance precision and recall, prioritizing the identification of critical at-risk segments.
-* **Tools:** Python (Pandas, Scikit-learn, XGBoost).
+* **Model Comparison:** Evaluated **Random Forest** and **XGBoost** architectures; the tuned XGBoost model was selected as the superior performer with an **AUC-ROC of 0.8442**.
+* **Optimization:** Conducted **Threshold Optimization** (best threshold: **0.5155**) to maximize the F1-Score for identifying churning customers.
+* **Tools:** Python (Pandas, Scikit-learn, XGBoost, Seaborn).
 
 ## My Contributions
-* **Project Vision:** Defined the strategic goals and business problem centered on revenue protection.
-* **Data Sourcing & Engineering:** Lead for identifying and acquiring datasets; performed comprehensive cleaning and feature engineering (Value-at-Risk, Service Intensity).
-* **Collaborative Modeling:** Partnered with Logan McCorkle and the team to refine the predictive pipeline and evaluate performance metrics.
+* **Vision & Strategy:** Defined the business problem of revenue protection through predictive churn modeling.
+* **Data Sourcing & Engineering:** Lead for dataset acquisition and cleaning. Performed advanced feature engineering, including the creation of the **Value-at-Risk** and **Service Intensity** metrics.
+* **Team Collaboration:** Partnered with Logan McCorkle and the team to refine the pipeline, focusing on one-hot encoding and handling data types for the final XGBoost run.
 
-## Key Findings
-* **High Recall Strategy:** Achieved a **97% Recall rate**, ensuring nearly all at-risk customers are identified for proactive retention efforts.
-* **Feature Importance:** [Placeholder: e.g., "Contractual terms and service intensity were identified as the primary drivers of churn."]
+## Key Findings & Results
+* **Churn Probability:** Identified **2,718 high-risk customers**, with top segments showing over **97% probability** of attrition.
+* **Model Performance:** Achieved a **0.6336 F1-Score** for the churn class, significantly improving the baseline model's ability to identify "leavers" without over-flagging "stayers."
+* **Actionable Output:** Generated a [**High-Risk Customer List**](High_Risk_Customers_for_Retention.csv) sorted by "Value at Risk," allowing management to prioritize high-revenue retention efforts.
