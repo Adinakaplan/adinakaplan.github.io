@@ -25,7 +25,7 @@ Detail-oriented and analytical Data Science student at Bellevue University (GPA 
 * **Business Value:** Provides a proactive framework for resource allocation, allowing city stakeholders to prioritize safety audits before accidents occur.
 
 ### **[Customer Retention & Churn Optimization](project2)**
-**Technical Stack:** *Python, XGBoost, Threshold Optimization*
-* **The Work:** *(Work in Progress)* Building an end-to-end machine learning pipeline to identify high-value customers at risk of churn.
-* **The Insight:** Utilizing advanced gradient boosting and threshold tuning to move beyond simple prediction into actionable business strategy.
+**Technical Stack:** Python (XGBoost, Scikit-Learn, Pandas), Threshold Optimization
+* **The Work:** Managed the initial project phase, including strategic data sourcing and cleaning, and collaborated on the development of a predictive pipeline comparing XGBoost and Random Forest architectures.
+* **The Insight:** Comparing ensemble methods and utilizing precision threshold tuning to move beyond simple prediction into actionable business strategy.
 * **Business Value:** Enables targeted marketing efforts to protect revenue by identifying exactly which customers require retention incentives.
