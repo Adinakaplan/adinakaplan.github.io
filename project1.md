@@ -27,8 +27,9 @@ In public safety, the cost of a "False Negative" (missing a high-risk site) is s
 ---
 
 ## Key Results & Findings
-* **Model Confidence:** The system achieved a **0.9979 confidence score** in identifying sites matching high-risk profiles.
-* **Actionable Geographic Insights:** Analysis revealed that **87% of high-risk uncontrolled intersections** were concentrated in the **Bronx (55%)** and **Staten Island (32%)**.
+* **Model Performance:** The system achieved an overall **Accuracy of 88.4%**, specifically optimized to identify high-risk safety profiles.
+* **High-Risk Recall:** By strategically tuning the model, I achieved a **97% Recall rate**, ensuring that the vast majority of historically dangerous locations were successfully flagged for audit.
+* **Geographic Insights:** Analysis revealed that **87% of high-risk uncontrolled intersections** in the study were concentrated in the **Bronx (55%)** and **Staten Island (32%)**.
 * **Public Reporting Correlation:** Data revealed that high-risk sites averaged over **61 citizen complaints**, proving a measurable link between public feedback and infrastructure risk.
 
 ---
