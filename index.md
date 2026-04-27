@@ -18,20 +18,14 @@ Detail-oriented and analytical Data Science student at Bellevue University (GPA 
 
 ### **Technical Projects**
 
-### **[NYC Motor Vehicle Collision Analysis](project1.md)**
-**Technical Stack:** *Python, Geospatial Analysis, Data Wrangling*
-* **The Work:** Executed a large-scale analysis of 1.8M records to identify critical gaps in geographic data tracking.
-* **The Insight:** Uncovered a correlation between poorly tracked areas and high-risk intersections requiring improvements.
-* **Business Value:** Provides a data-driven framework for resource allocation, allowing stakeholders to prioritize maintenance in areas where oversight is currently failing.
+### **[NYC Intersection Safety & Risk Modeling](project1)**
+**Technical Stack:** *Python, Random Forest, Geospatial Analysis (EPSG:2263)*
+* **The Work:** Developed a predictive model using 1.8M records to identify high-risk uncontrolled intersections.
+* **The Insight:** Achieved **97% Recall** in flagging dangerous locations by merging disparate public datasets with high-precision spatial joins.
+* **Business Value:** Provides a proactive framework for resource allocation, allowing city stakeholders to prioritize safety audits before accidents occur.
 
-### **[Predictive Modeling & ML Pipelines](project2.md)**
-**Technical Stack:** *Scikit-Learn, Hyperparameter Tuning, Predictive Analytics*
-* **The Work:** Developed end-to-end machine learning pipelines including preprocessing, feature engineering, and hyperparameter tuning.
-* **The Insight:** Optimized model performance using ROC/AUC and confusion matrices to ensure high predictive reliability.
-* **Business Value:** Enables proactive decision-making by providing reliable forecasts, reducing costs associated with reactive problem-solving.
-
-### **[Database Design & SQL Analysis](project3.md)**
-**Technical Stack:** *SQL, ERD Design, Relational Databases*
-* **The Work:** Designed complex relational databases and created ERDs for customer, supplier, and student datasets.
-* **The Insight:** Authored advanced SQL queries to aggregate and summarize high-volume data from multi-source structures.
-* **Business Value:** Streamlines data retrieval and reporting accuracy, ensuring stakeholders have access to clean, reliable data for strategic planning.
+### **[Customer Retention & Churn Optimization](project2)**
+**Technical Stack:** *Python, XGBoost, Threshold Optimization*
+* **The Work:** *(Work in Progress)* Building an end-to-end machine learning pipeline to identify high-value customers at risk of churn.
+* **The Insight:** Utilizing advanced gradient boosting and threshold tuning to move beyond simple prediction into actionable business strategy.
+* **Business Value:** Enables targeted marketing efforts to protect revenue by identifying exactly which customers require retention incentives.
