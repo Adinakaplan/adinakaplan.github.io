@@ -16,13 +16,22 @@ Detail-oriented and analytical Data Science student at Bellevue University (GPA 
 
 ---
 
-### **Key Technical Projects**
+### **Technical Projects**
 
 #### **[NYC Motor Vehicle Collision Analysis](project1.md)**
-Conducted a large-scale analysis of 1.8M records. I identified critical gaps in geographic data tracking, uncovering a correlation between poorly tracked areas and intersections requiring improvements—suggesting that areas with less oversight may coincide with higher maintenance needs.
+**Technical Stack:** *Python, Geospatial Analysis, Data Wrangling*
+* **The Work:** Executed a large-scale analysis of 1.8M records to identify critical gaps in geographic data tracking.
+* **The Insight:** Uncovered a correlation between poorly tracked areas and high-risk intersections requiring city improvements.
+* **Business Value:** Provides a data-driven framework for resource allocation, allowing stakeholders to prioritize maintenance and safety audits in areas where manual oversight is currently failing.
 
 #### **[Predictive Modeling & ML Pipelines](project2.md)**
-Developed end-to-end machine learning pipelines including preprocessing, feature engineering, and hyperparameter tuning. Optimized models using ROC/AUC and confusion matrices to drive predictive accuracy and business decision-making.
+**Technical Stack:** *Scikit-Learn, Hyperparameter Tuning, Predictive Analytics*
+* **The Work:** Developed end-to-end machine learning pipelines including preprocessing, feature engineering, and hyperparameter tuning.
+* **The Insight:** Optimized model performance using ROC/AUC and confusion matrices to ensure high predictive reliability.
+* **Business Value:** Enables proactive decision-making by providing reliable forecasts, reducing costs associated with reactive problem-solving and improving operational efficiency.
 
 #### **[Database Design & SQL Analysis](project3.md)**
-Designed relational databases and created ERDs for customer, supplier, bid, and student datasets. Developed complex SQL queries to retrieve, filter, and aggregate data for comprehensive reporting.
+**Technical Stack:** *SQL, ERD Design, Relational Databases*
+* **The Work:** Designed complex relational databases and created ERDs for customer, supplier, and student datasets.
+* **The Insight:** Authored advanced SQL queries to aggregate and summarize high-volume data from multi-source relational structures.
+* **Business Value:** Streamlines data retrieval and reporting accuracy, reducing the time required for technical audits and ensuring stakeholders have access to clean, reliable data for strategic planning.
