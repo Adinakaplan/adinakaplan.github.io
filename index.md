@@ -1,17 +1,15 @@
----
-layout: default
-title: ADINA KAPLAN
-description: Data Science Specialist | Bellevue University | GPA 4.0
----
-
-## **Professional Summary**
-Detail-oriented Data Science student with a 4.0 GPA, specializing in transforming complex datasets into actionable business intelligence. Proven track record in building end-to-end machine learning pipelines, geospatial analysis, and relational database architecture. I apply a structured, logical approach to solve high-impact challenges in urban safety and operational efficiency.
-
-[**Download Full Resume (PDF)**](Adina_Kaplan_Data_Science_Resume_3_2026.pdf) | [**LinkedIn**](https://www.linkedin.com/in/adinakaplan) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
+# ADINA KAPLAN
+### **Data Science Specialist | GPA 4.0**
+[**Download Resume (PDF)**](Adina_Kaplan_Data_Science_Resume_3_2026.pdf) | [**LinkedIn**](https://www.linkedin.com/in/adinakaplan) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
 
 ---
 
-## **Technical Expertise**
+### **Professional Summary**
+Detail-oriented Data Science student at Bellevue University with a consistent 4.0 GPA. I specialize in transforming complex, real-world data into actionable business intelligence. My approach combines rigorous statistical methods with advanced programming to solve high-impact challenges in urban safety, predictive analytics, and relational database architecture.
+
+---
+
+### **Technical Expertise**
 
 | Category | Tools & Skills |
 | :--- | :--- |
@@ -22,24 +20,22 @@ Detail-oriented Data Science student with a 4.0 GPA, specializing in transformin
 
 ---
 
-## **Featured Technical Projects**
+### **Featured Technical Projects**
 
-### 🔹 **NYC Motor Vehicle Collision Analysis**
-**[View Project Documentation](project1.md)**
-* **The Problem:** Identifying urban safety hotspots within 1.8M collision records.
-* **The Insight:** Discovered that geographic areas with the highest injury rates often suffered from poor data tracking, suggesting municipal oversight directly correlates with infrastructure safety.
+#### 🔹 **NYC Motor Vehicle Collision Analysis**
+*Large-scale analysis of 1.8M municipal records to identify infrastructure risks.*
+* **The Insight:** Discovered that geographic areas with the highest injury rates often suffered from poor data tracking, suggesting that municipal oversight directly correlates with infrastructure safety.
 * **Tech Stack:** Python, Geospatial Mapping, Data Wrangling.
+* [**View Project Documentation**](project1.md)
 
-### 🔹 **Predictive Machine Learning Pipelines**
-**[View Project Documentation](project2.md)**
-* **The Problem:** Developing high-accuracy forecasting models for business decision-making.
+#### 🔹 **Predictive Machine Learning Pipelines**
+*End-to-end forecasting and model optimization for business decision-making.*
 * **The Result:** Engineered a pipeline that optimized model recall and AUC-ROC scores through rigorous hyperparameter tuning and custom feature scaling.
 * **Tech Stack:** Scikit-Learn, Python, Predictive Modeling.
+* [**View Project Documentation**](project2.md)
 
-### 🔹 **Relational Database Design & Architecture**
-**[View Project Documentation](project3.md)**
-* **The Problem:** Structuring multi-source data for efficient retrieval and reporting.
+#### 🔹 **Relational Database Design & Architecture**
+*Structuring multi-source data for efficient retrieval and business reporting.*
 * **The Achievement:** Designed complex Entity-Relationship Diagrams (ERDs) and authored advanced SQL queries to aggregate and summarize high-volume supplier and sales data.
 * **Tech Stack:** SQL, ERD Design, Database Normalization.
-
----
+* [**View Project Documentation**](project3.md)
