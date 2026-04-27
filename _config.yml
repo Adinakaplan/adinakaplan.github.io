@@ -1,6 +1,4 @@
 title: Adina Kaplan
 description: Data Scientist | Data Analyst | GPA 4.0
 theme: jekyll-theme-cayman
-# This section adds your Resume and LinkedIn as the main buttons in the green banner
-google_analytics: 
-show_downloads: true
+show_downloads: false
