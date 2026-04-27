@@ -1,7 +1,7 @@
----
-layout: default
-title: ADINA KAPLAN
-description: Data Scientist / Analyst | GPA 4.0
+# ADINA KAPLAN
+### **Data Scientist / Analyst | GPA 4.0**
+[**Resume**](Adina_Kaplan_Data_Science_Resume_3_2026.pdf) | [**LinkedIn**](https://www.linkedin.com/in/adinakaplan) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
+
 ---
 
 [**Resume**](Adina_Kaplan_Data_Science_Resume_3_2026.pdf) | [**LinkedIn**](https://www.linkedin.com/in/adinakaplan) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
