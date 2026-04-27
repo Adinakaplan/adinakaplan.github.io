@@ -1,19 +1,25 @@
 # Project 2: Predictive Customer Churn Analysis
 
 ## Project Overview
-This project identifies high-value customer segments at risk of attrition using predictive modeling. By analyzing historical behavior, we developed a framework to calculate churn probability and recommend targeted retention strategies.
+In the telecommunications industry, the cost of acquiring a new customer significantly exceeds the cost of retention. This project addresses this economic challenge by developing a predictive pipeline to identify at-risk subscribers. Using the IBM Telco dataset (7,043 records), I established the project vision and led the data engineering efforts to transform raw billing and demographic data into actionable features for machine learning.
 
 ## Technical Methodology
-* **Model Comparison:** Evaluated **Random Forest** and **XGBoost** architectures; the tuned XGBoost model was selected as the superior performer with an **AUC-ROC of 0.8442**.
-* **Optimization:** Conducted **Threshold Optimization** (best threshold: **0.5155**) to maximize the F1-Score for identifying churning customers.
-* **Tools:** Python (Pandas, Scikit-learn, XGBoost, Seaborn).
+* **Data Engineering & Cleaning:** Performed critical preprocessing, including converting 'Total Charges' to numeric formats and implementing median imputation. Managed One-Hot Encoding for categorical variables to prevent the dummy variable trap.
+* **Feature Engineering:** Developed custom metrics such as **Value-at-Risk**, **Service Intensity**, and **Tenure-to-Charge** ratios to capture complex loyalty patterns.
+* **Modeling Strategy:** Implemented a comparative analysis between **Random Forest** and **XGBoost** architectures, utilizing **SMOTE** (Synthetic Minority Over-sampling Technique) to mitigate class imbalance.
+* **Optimization:** Applied **Threshold Optimization** (optimized to **0.5155**) to maximize the F1-Score, ensuring the model prioritizes the identification of actual churners.
 
 ## My Contributions
-* **Vision & Strategy:** Defined the business problem of revenue protection through predictive churn modeling.
-* **Data Sourcing & Engineering:** Lead for dataset acquisition and cleaning. Performed advanced feature engineering, including the creation of the **Value-at-Risk** and **Service Intensity** metrics.
-* **Team Collaboration:** Partnered with Logan McCorkle and the team to refine the pipeline, focusing on one-hot encoding and handling data types for the final XGBoost run.
+* **Vision & Strategy:** Defined the business problem and research questions focused on maximizing the ROI of marketing interventions.
+* **Data Sourcing & Engineering:** Lead responsibility for dataset cleaning, handling missing values, and engineering the features that drive model performance.
+* **Collaborative Modeling:** Partnered with the team to refine the XGBoost pipeline and evaluate model metrics (AUC-ROC: **0.8442**).
 
-## Key Findings & Results
-* **Churn Probability:** Identified **2,718 high-risk customers**, with top segments showing over **97% probability** of attrition.
-* **Model Performance:** Achieved a **0.6336 F1-Score** for the churn class, significantly improving the baseline model's ability to identify "leavers" without over-flagging "stayers."
-* **Actionable Output:** Generated a [**High-Risk Customer List**](High_Risk_Customers_for_Retention.csv) sorted by "Value at Risk," allowing management to prioritize high-revenue retention efforts.
+## Key Results & Findings
+* **Model Performance:** Achieved a **0.6336 F1-Score** for the churn class and an **AUC-ROC of 0.8442**, significantly improving the ability to distinguish between "leavers" and "stayers" compared to baseline models.
+* **Strategic Accuracy:** By prioritizing Recall through threshold tuning, the model is designed to minimize "False Negatives"—the most expensive error in churn management.
+* **Predictive Capability:** The pipeline is architected to output a prioritized risk list, identifying customers with a churn probability of up to **97%** for targeted intervention.
+* **Final Analysis:** [Documentation Finalization in Progress] — Detailed correlation between specific service bundles and churn behavior is currently being synthesized for the final report.
+
+## Project Artifacts
+* **[Model Architecture Code](DSC450_Project2.ipynb):** Complete Jupyter Notebook containing the data cleaning pipeline, XGBoost tuning, and threshold optimization logic.
+* **Technical Proposal:** Documentation of the research methodology, anticipated challenges, and project roadmap.
