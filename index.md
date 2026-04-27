@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # ADINA KAPLAN | DATA SCIENCE
 
 ## [Home](index.md) | [Work & Contact](work.md)
@@ -28,7 +24,7 @@ Detail-oriented and analytical Data Science student at Bellevue University (GPA 
 Conducted a large-scale analysis of 1.8M records. I identified critical gaps in geographic data tracking, uncovering a correlation between poorly tracked areas and intersections requiring city infrastructure improvements—suggesting that areas with less oversight may coincide with higher maintenance needs.
 
 #### **[Predictive Modeling & ML Pipelines](project2.md)**
-Developed end-to-end machine learning pipelines including preprocessing, feature engineering, and hyperparameter tuning. Optimized models using ROC/AUC and confusion matrices to drive predictive accuracy and business decision-making.
+[cite_start]Developed end-to-end machine learning pipelines including preprocessing, feature engineering, and hyperparameter tuning[cite: 89]. [cite_start]Optimized models using ROC/AUC and confusion matrices to drive predictive accuracy and business decision-making[cite: 89].
 
 #### **[Database Design & SQL Analysis](project3.md)**
-Designed relational databases and created ERDs for customer, supplier, bid, and student datasets. Developed complex SQL queries to retrieve, filter, and aggregate data for comprehensive reporting.
+[cite_start]Designed relational databases and created ERDs for customer, supplier, bid, and student datasets[cite: 91]. [cite_start]Developed complex SQL queries to retrieve, filter, and aggregate data for comprehensive reporting[cite: 91].
