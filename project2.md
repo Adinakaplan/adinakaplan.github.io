@@ -1,4 +1,4 @@
-# Project 2: Predictive Customer Churn Analysis
+Predictive Customer Churn Analysis
 
 ## Project Overview
 In the telecommunications industry, the cost of acquiring a new customer significantly exceeds the cost of retention. This project addresses this economic challenge by developing a predictive pipeline to identify at-risk subscribers. Using the IBM Telco dataset (7,043 records), I established the project vision and led the data engineering efforts to transform raw billing and demographic data into actionable features for machine learning.
