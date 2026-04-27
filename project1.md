@@ -41,5 +41,8 @@ Below is the Confusion Matrix demonstrating the model’s success in capturing h
 ---
 
 ## Project Artifacts
-* **Stakeholder Action Report:** An actionable "Top 100" priority list for immediate DOT audit.
-* **Tools Used:** Python (Scikit-Learn, Pandas, NumPy), SQL, Geospatial Analysis.
+* **Actionable Priority List:** A generated "Top 100" list for targeted infrastructure audits.
+* **Technical Proposal:** Documentation outlining the transition from reactive to proactive safety management.
+* **Core Technical Stack:** Python (Scikit-Learn, Pandas, NumPy).
+
+---
