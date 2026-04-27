@@ -1,5 +1,5 @@
 # ADINA KAPLAN
-### **Data Science Specialist | GPA 4.0**
+### **Data Scientist/Analyst | GPA 4.0**
 [**Download Resume (PDF)**](Adina_Kaplan_Data_Science_Resume_3_2026.pdf) | [**LinkedIn**](https://www.linkedin.com/in/adinakaplan) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
 
 ---
