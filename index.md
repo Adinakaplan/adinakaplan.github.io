@@ -19,7 +19,7 @@ Detail-oriented and analytical Data Science student at Bellevue University (GPA 
 ### **Technical Projects**
 
 ### **[NYC Intersection Safety & Risk Modeling](project1)**
-**Technical Stack:** *Python, Random Forest, Geospatial Analysis (EPSG:2263)*
+**Technical Stack:** *Python, Scikit-Learn, Pandas*
 * **The Work:** Developed a predictive model using 1.8M records to identify high-risk uncontrolled intersections.
 * **The Insight:** Achieved **97% Recall** in flagging dangerous locations by merging disparate public datasets with high-precision spatial joins.
 * **Business Value:** Provides a proactive framework for resource allocation, allowing city stakeholders to prioritize safety audits before accidents occur.
