@@ -1,4 +1,4 @@
-[**← Back to Home**](https://adinakaplan.github.io/) | [**LinkedIn Profile**](https://www.linkedin.com/in/adina-kaplan/) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
+[**Home**](/) | [**Next Project: Customer Churn**](project2) | [**LinkedIn**](https://www.linkedin.com/in/adina-kaplan/) | [**Email**](mailto:adina.kaplan613@gmail.com) | [**Resume**](resume.pdf)
 
 ---
 
