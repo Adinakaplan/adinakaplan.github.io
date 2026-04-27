@@ -47,7 +47,7 @@ Below is the Confusion Matrix demonstrating the model’s success in capturing h
 
 ## Project Artifacts
 * [**Technical Proposal & White Paper**](nyc_traffic_paper.pdf): A detailed strategy for transitioning from reactive to proactive safety management.
-* [**Model Architecture Code**](nyc_traffic_model.ipynb): Python implementation of the Random Forest Classifier, including the strategic recall optimization.
+* [**Model Architecture Code**](nyc_traffic_model.html): Python implementation of the Random Forest Classifier, including the strategic recall optimization.
 * **Actionable Priority List:** A generated "Top 100" list for targeted infrastructure audits.
 * **Core Technical Stack:** Python (Scikit-Learn, Pandas, NumPy).
 
