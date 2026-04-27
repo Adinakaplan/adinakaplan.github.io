@@ -1,7 +1,7 @@
 # Proactive Risk Modeling for NYC Intersections
 
-## Executive Summary
-This project transitioned the NYC Department of Transportation from reactive safety management to **proactive risk identification**. I architected a machine learning model to identify "Risk Signatures" at uncontrolled intersections that match the profile of high-crash locations, allowing for city intervention before accidents occur.
+## Project Overview
+This project developed a data-driven framework to shift intersection management from reactive safety measures to **proactive risk identification**. I architected a machine learning model designed to identify "Risk Signatures" at uncontrolled intersections, providing a scalable method for cities to prioritize safety interventions before accidents occurs.
 
 ---
 
