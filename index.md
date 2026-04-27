@@ -3,7 +3,7 @@ layout: default
 title: Adina Kaplan
 ---
 
-[**LinkedIn Profile**](https://www.linkedin.com/in/adinakaplan) | [**Email Contact**](mailto:adina.kaplan613@gmail.com) | [**Resume**](resume.pdf)
+[**LinkedIn Profile**](https://www.linkedin.com/in/adina-kaplan/) | [**Email Contact**](mailto:adina.kaplan613@gmail.com) | [**Resume**](resume.pdf)
 
 ---
 
