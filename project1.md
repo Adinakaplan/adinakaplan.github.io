@@ -1,4 +1,4 @@
-[Home](index) | [Project 1](project1) | [Project 2](project2) | [Resume](resume.pdf)
+[**← Back to Home**](https://adinakaplan.github.io/) | [**LinkedIn Profile**](https://www.linkedin.com/in/adina-kaplan/) | [**Email Contact**](mailto:adina.kaplan613@gmail.com)
 
 ---
 
