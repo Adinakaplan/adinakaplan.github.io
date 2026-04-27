@@ -3,6 +3,10 @@ layout: default
 title: Adina Kaplan
 ---
 
+[**LinkedIn Profile**](https://www.linkedin.com/in/adinakaplan) | [**Email Contact**](mailto:adina.kaplan613@gmail.com) | [**Resume**](resume.pdf)
+
+---
+
 ## Professional Summary
 Detail-oriented and analytical Data Science student at Bellevue University (GPA 4.0). I have hands-on experience in data analysis, visualization, predictive modeling, and statistical methods. I take a structured, logical approach to problem-solving and am proficient in transforming complex datasets into actionable insights using Python, SQL, and Tableau.
 
