@@ -32,3 +32,5 @@ Detail-oriented and analytical Data Science student at Bellevue University (GPA 
 * **The Work:** Managed the initial project phase, including strategic data sourcing and cleaning, and collaborated on the development of a predictive pipeline comparing XGBoost and Random Forest architectures.
 * **The Insight:** Comparing ensemble methods and utilizing precision threshold tuning to move beyond simple prediction into actionable business strategy.
 * **Business Value:** Enables targeted marketing efforts to protect revenue by identifying exactly which customers require retention incentives.
+
+* ### **[Marketing Attribution](project3)**
