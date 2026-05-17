@@ -46,10 +46,10 @@ Below is the Confusion Matrix demonstrating the model’s success in capturing h
 ---
 
 ## Project Artifacts
-* [**Project Methodology**](nyc_project_methodology.pdf): Formal documentation of the research methodology and industry domain analysis.
-* [**Analysis and Findings**](nyc_analysis_and_findings.pdf): A detailed strategy for transitioning from reactive to proactive safety management.
+* [**Project Methodology**](nyc_project_methodology.pdf): Initial research framework, domain analysis, and project methodology.
+* [**Analysis & Findings**](nyc_analysis_and_findings.pdf): Initial research framework, domain analysis, and project methodology.
 * [**Data Cleaning & Engineering Pipeline**](nyc_cleaning.pdf): Comprehensive notebook focused on data integrity, feature engineering, and preprocessing.
-* [**Model Architecture Code**](nyc_traffic_model.html): Python implementation of the Random Forest Classifier, including the strategic recall optimization.
+* [**Model Implementation & Optimization**](nyc_traffic_model.html): Python implementation of the machine learning model, including strategic performance and evaluation optimization.
 * **Actionable Priority List:** A generated "Top 100" list for targeted infrastructure audits.
 * **Core Technical Stack:** Python (Scikit-Learn, Pandas, NumPy).
 
