@@ -25,8 +25,8 @@ In the telecommunications industry, the cost of acquiring a new customer signifi
 * **Final Analysis:** [Documentation Finalization in Progress] - Detailed correlation between specific service bundles and churn behavior is currently being synthesized for the final report.
 
 ## Project Artifacts
-* **[Project Methodology](customer_churn_project_methodology.pdf):** Formal documentation of the research methodology and industry domain analysis.
-* **[Analysis & Findings](customer_churn_analysis_and_findings.pdf):** 
+* **[Project Methodology](customer_churn_project_methodology.pdf):** Initial research framework, domain analysis, and project methodology.
+* **[Analysis & Findings](customer_churn_analysis_and_findings.pdf):** Full analysis, machine learning implementation, and data visualizations.
 * **[Data Cleaning & Engineering Pipeline](Telco_Customer_Churn_Cleaned.html):** Comprehensive notebook focused on data integrity, feature engineering, and preprocessing.
-* **[Model Implementation & Optimization](customer_churn_model.html):** XGBoost and Random Forest implementation including hyperparameter tuning and threshold optimization.
+* **[Model Implementation & Optimization](customer_churn_model.html):** Python implementation of the machine learning models, including strategic performance and evaluation optimization.
 * **Core Technical Stack:** Python (Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn).
