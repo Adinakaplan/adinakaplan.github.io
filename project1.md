@@ -47,7 +47,7 @@ Below is the Confusion Matrix demonstrating the model’s success in capturing h
 
 ## Project Artifacts
 * [**Project Methodology**](nyc_project_methodology.pdf): Initial research framework, domain analysis, and project methodology.
-* [**Analysis & Findings**](nyc_analysis_and_findings.pdf): Initial research framework, domain analysis, and project methodology.
+* [**Analysis & Findings**](nyc_analysis_and_findings.pdf): Full analysis, machine learning implementation, and data visualizations.
 * [**Data Cleaning & Engineering Pipeline**](nyc_cleaning.pdf): Comprehensive notebook focused on data integrity, feature engineering, and preprocessing.
 * [**Model Implementation & Optimization**](nyc_traffic_model.html): Python implementation of the machine learning model, including strategic performance and evaluation optimization.
 * **Actionable Priority List:** A generated "Top 100" list for targeted infrastructure audits.
