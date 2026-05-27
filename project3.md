@@ -27,6 +27,6 @@ Optimizing marketing Return on Investment (ROI) is a primary economic challenge 
 ## Project Artifacts
 * **[Project Methodology](marketing_ROI_project_methodology.pdf):** Initial research framework, domain analysis, and project methodology.
 * **[Analysis & Findings](marketing_ROI_analysis_and_findings.pdf):** Full analysis, machine learning implementation, and data visualizations.
-* **[Data Cleaning & Engineering Pipeline](marketing_ROI_cleaning_.pdf):** Comprehensive notebook focused on data integrity, feature engineering, and preprocessing.
+* **[Data Cleaning & Engineering Pipeline](marketing_ROI_cleaning.pdf):** Comprehensive notebook focused on data integrity, feature engineering, and preprocessing.
 * **[Model Implementation & Optimization](marketing_ROI_model.pdf):** Python implementation of the machine learning models, including strategic performance and evaluation optimization.
 * **Core Technical Stack:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn).
