@@ -28,9 +28,13 @@ Detail-oriented and analytical Data Science student at Bellevue University (GPA 
 * **Business Value:** Provides a proactive framework for resource allocation, allowing city stakeholders to prioritize safety audits before accidents occur.
 
 ### **[Customer Retention & Churn Optimization](project2)**
-**Technical Stack:** Python (XGBoost, Scikit-Learn, Pandas), Threshold Optimization
+**Technical Stack:** *Python (XGBoost, Scikit-Learn, Pandas), Threshold Optimization*
 * **The Work:** Managed the initial project phase, including strategic data sourcing and cleaning, and collaborated on the development of a predictive pipeline comparing XGBoost and Random Forest architectures.
 * **The Insight:** Comparing ensemble methods and utilizing precision threshold tuning to move beyond simple prediction into actionable business strategy.
 * **Business Value:** Enables targeted marketing efforts to protect revenue by identifying exactly which customers require retention incentives.
 
-### **[Marketing Attribution (In Progress)](project3)**
+### **[Marketing ROI & High-Profit Target Identification](project3)**
+**Technical Stack:** *Python, Scikit-Learn, Pandas*
+* **The Work:** Contributed to the predictive modeling process by evaluating classification algorithms and led the end-to-end design of visual analytics to map consumer behaviors.
+* **The Insight:** Evaluated a Random Forest champion model achieving an **AUC-ROC of 0.8145** and an **F1-Score of 0.5367** to balance precision and recall on highly imbalanced data.
+* **Business Value:** Translates complex model outputs into an actionable ROI Strategy Map, successfully filtering a top tier of 5,000 prospects to capture an estimated **€3,940,932** in optimized campaign profit.
